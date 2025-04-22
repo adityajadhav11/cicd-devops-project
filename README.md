@@ -23,6 +23,7 @@ Screenshots available in the `/screenshots` folder:
 - GitHub Actions CI/CD workflow
 - Running app on localhost
 - Docker image on Docker Hub
+- Build Test Deploy
 
 ## 🔗 Important Links
 - [GitHub Repository](https://github.com/adityajadhav11/cicd-devops-project)
